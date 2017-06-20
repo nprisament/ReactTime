@@ -13,7 +13,7 @@ module.exports = () => (
       	<IndexLink to="/">Timer</IndexLink>
       </NavItem>
       <NavItem>
-      	<Link to="/">Countdown</Link>
+      	<Link to="/countdown">Countdown</Link>
       </NavItem>
     </Nav>
   </Navbar>
